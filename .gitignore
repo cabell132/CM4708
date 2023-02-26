@@ -1,0 +1,10 @@
+# the samples folder
+/samples
+
+# The Notebook
+Notebook.ipynb
+
+# Beatport 4
+beatport4.py
+
+environment.yml
